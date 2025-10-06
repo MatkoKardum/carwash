@@ -13,7 +13,7 @@ This project implements a simulated car wash control system using a PIC microcon
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MatkoKardum/carwash
    ```
 2. **Code**:
    - Install MPLAB X IDE with XC8 compiler for PIC microcontroller firmware development.
